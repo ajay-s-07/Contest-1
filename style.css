@@ -1,0 +1,22 @@
+body{
+    padding: 10px;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.section-1{
+    border: 1px solid black;
+    /* padding: 0px 10px 20px 10px; */
+    padding: 15px;
+    padding-top: 0px;
+}
+img{
+    height: 20em;
+    width: auto;
+}
+ol{
+    padding-left: 20px;
+}
+.section-2, .section-3{
+    padding: 10px;
+}
